@@ -22,20 +22,5 @@ namespace CartService.Controllers
             return "value";
         }
         
-        // GET api/<CartController>/5
-        [HttpGet("{id}")]
-        public string Get2(int id)
-        {
-            return "value";
-        }
-        
-        // GET api/<CartController>/5
-        [HttpGet("{id}")]
-        public string Get3(int id)
-        {
-            return "value";
-        }
-
-        
     }
 }
