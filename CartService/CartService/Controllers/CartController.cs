@@ -27,13 +27,6 @@ namespace CartService.Controllers
         public void Post([FromBody] string value)
         {
         }
-
-        // PUT api/<CartController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
         
     }
 }
