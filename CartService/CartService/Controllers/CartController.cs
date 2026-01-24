@@ -22,11 +22,6 @@ namespace CartService.Controllers
             return "value";
         }
 
-        // POST api/<CartController>
-        [HttpPost]
-        public void Post([FromBody] string value)
-        {
-        }
         
     }
 }
