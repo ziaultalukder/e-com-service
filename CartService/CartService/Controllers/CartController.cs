@@ -34,10 +34,6 @@ namespace CartService.Controllers
         {
         }
 
-        // DELETE api/<CartController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+        
     }
 }
